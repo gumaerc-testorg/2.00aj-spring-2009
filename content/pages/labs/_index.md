@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 877f0e43-412d-b8b1-6e5b-2864cf8bf1cc
 ---
@@ -491,7 +494,7 @@ Lab clean up, evaluations
 
 {{< anchor "pool" >}}{{< /anchor >}}Pool Testing Photos
 -------------------------------------------------------
-{{< image-gallery id="877f0e43-412d-b8b1-6e5b-2864cf8bf1cc_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/" >}}
+{{< image-gallery id="877f0e43-412d-b8b1-6e5b-2864cf8bf1cc_nanogallery2" baseUrl="/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/" >}}
 {{< image-gallery-item href="0458ed12abefc07e9f248ed8cbd96242_07.jpg" data-ngdesc="Students with their robot, before testing." text="Students with their robot, before testing." >}}
 {{< image-gallery-item href="5df24d651158dcffcd51819bf4703f19_08.jpg" data-ngdesc="A cube-framed robot named Nemo." text="A cube-framed robot named Nemo." >}}
 {{< image-gallery-item href="c7b0914e874556946cb218751ebacbef_09.jpg" data-ngdesc="An angled profile helps reduce drag." text="An angled profile helps reduce drag." >}}

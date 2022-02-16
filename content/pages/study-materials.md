@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 303c499b-e5d2-36b1-cde0-bb36d615f4e7
 ---
@@ -45,7 +47,7 @@ Engineering design (![This resource may not render correctly in a screen reader.
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Introductory questionnaire ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res01a))
@@ -234,7 +236,7 @@ Guest lecturer: Prof. Dava Newman
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
 Prelab ([PDF ‑ 4.5MB]({{< baseurl >}}/resources/mit2_00ajs09_lec11)) (Courtesy of Dava Newman. Used with permission.)
@@ -428,7 +430,7 @@ Guest lecturer: Prof. Steve Dubowsky, mobile robots
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Field and Space Robotics Laboratory](http://robots.mit.edu/), MIT Mechanical Engineering
+[Field and Space Robotics Laboratory](https://ilp.mit.edu/node/36640), MIT Mechanical Engineering
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -533,7 +535,7 @@ Lab clean up, evaluations
 
 {{< anchor "killian" >}}{{< /anchor >}}Moon Mission Photos
 ----------------------------------------------------------
-{{< image-gallery id="303c499b-e5d2-36b1-cde0-bb36d615f4e7_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/" >}}
+{{< image-gallery id="303c499b-e5d2-36b1-cde0-bb36d615f4e7_nanogallery2" baseUrl="/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/" >}}
 {{< image-gallery-item href="1b10f6088f5fbbd481947062a997a58d_1.jpeg" data-ngdesc="Getting suited up." text="Getting suited up." >}}
 {{< image-gallery-item href="1c69b854f7fff687d900e081a114fbfb_2.jpeg" data-ngdesc="Student astronauts, ready to gather samples from the surface." text="Student astronauts, ready to gather samples from the surface." >}}
 {{< image-gallery-item href="a833ce1db5f0b5165e56c16be4be4829_3.jpeg" data-ngdesc="Moving in a space suit requires practice." text="Moving in a space suit requires practice." >}}

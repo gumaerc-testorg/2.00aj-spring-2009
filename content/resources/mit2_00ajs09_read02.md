@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/6d7a3e4ea54732e066ee2a72b5714eeb_MIT2_00AJs09_read02.pdf
+file: /media/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/6d7a3e4ea54732e066ee2a72b5714eeb_MIT2_00AJs09_read02.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Related Resources
+parent_type: CourseSection
 resourcetype: Document
 title: MIT2_00AJs09_read02.pdf
 uid: 6d7a3e4e-a547-32e0-66ee-2a72b5714eeb
