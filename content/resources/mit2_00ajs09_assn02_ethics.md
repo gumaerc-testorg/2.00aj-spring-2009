@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1016059a-65d2-56e4-e12d-e4f25591a1b8
 resourcetype: Document
 title: MIT2_00AJs09_assn02_ethics.pdf
 uid: 6d63b604-b011-7fab-2c46-41a990eff248

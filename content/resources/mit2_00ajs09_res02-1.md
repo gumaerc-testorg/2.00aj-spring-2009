@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Related Resources
 parent_type: CourseSection
+parent_uid: 9759c68f-7ab5-5cc8-6388-d95ca05794f4
 resourcetype: Document
 title: MIT2_00AJs09_res02.pdf
 uid: b928e804-a6f5-2f05-4106-15711404122e

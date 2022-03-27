@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 1016059a-65d2-56e4-e12d-e4f25591a1b8
 resourcetype: Document
 title: MIT2_00AJs09_assn05_oral_template.pdf
 uid: 27cf326e-f1b7-6acb-0342-71812aac3369

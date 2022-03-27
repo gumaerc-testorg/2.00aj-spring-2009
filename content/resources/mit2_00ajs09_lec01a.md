@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 303c499b-e5d2-36b1-cde0-bb36d615f4e7
 resourcetype: Document
 title: MIT2_00AJs09_lec01a.pdf
 uid: 36f811c6-cb20-e986-5d48-8d4253da2ea1

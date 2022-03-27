@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 877f0e43-412d-b8b1-6e5b-2864cf8bf1cc
 resourcetype: Document
 title: MIT2_00AJs09_res04.pdf
 uid: 2b2b7e7d-b8b0-0f6e-0eb4-dc641bb5f9d5

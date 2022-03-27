@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 29350056-4c00-73c5-971d-fc2bbf334afc
 resourcetype: Document
 title: MIT2_00AJs09_sw02.pdf
 uid: 2e263c7c-390e-be64-3e65-54b94850953f
