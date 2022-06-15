@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: A gallery of photos from a river testing experiment.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides information on the lab assignments for the course.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -39,11 +40,11 @@ Introduction to engineering and the design process, engineering drawing, sketchi
 {{< tdopen >}}
 
 
-Introduction to the OETL ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res01))
+Introduction to the OETL ({{% resource_link 1ac655f8-d2b1-d6b0-ef86-ecd8a2e45672 "PDF" %}})
 
 Solid Works tutorial
 
-Machine shop skills and safety ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lab01))
+Machine shop skills and safety ({{% resource_link 5b0fa587-019f-7fd5-6b2c-c1855857159a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -83,9 +84,9 @@ Exploration with instrumentation
 {{< tdopen >}}
 
 
-Light banks ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lab02)) (Courtesy of Kate Thompson. Used with permission.)
+Light banks ({{% resource_link 5c5d0a4b-6895-a326-6f78-c7d438a66f8a "PDF" %}}) (Courtesy of Kate Thompson. Used with permission.)
 
-Electronics Assembly ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res02)) (Courtesy of Kate Thompson. Used with permission.)
+Electronics Assembly ({{% resource_link 9a770c6e-6a69-05a7-a5ff-fa3c9df4346c "PDF" %}}) (Courtesy of Kate Thompson. Used with permission.)
 
 Solid Works tutorials/parts library
 
@@ -115,9 +116,9 @@ Holiday - no lecture
 {{< tdopen >}}
 
 
-Instrumentation panels introduction and construction ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lab03))
+Instrumentation panels introduction and construction ({{% resource_link 40a03166-e59f-4024-5885-1f6a870f52dc "PDF" %}})
 
-Information on sensors ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res03))
+Information on sensors ({{% resource_link 31b38dfb-a526-8a47-f467-94843514dce7 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -445,7 +446,7 @@ Guest lecturer: Dr. Sheri White, Woods Hole Oceanographic Institution, underwate
 {{< tdopen >}}
 
 
-Further data analysis ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res04))
+Further data analysis ({{% resource_link 2b2b7e7d-b8b0-0f6e-0eb4-dc641bb5f9d5 "PDF" %}})
 
 Design review poster preparation
 
