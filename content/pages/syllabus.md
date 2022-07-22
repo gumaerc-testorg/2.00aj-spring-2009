@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading, learning objectives, and measurable outcomes.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 14896ec8-08d2-b8ea-4b43-4109ba3fb682
 ---

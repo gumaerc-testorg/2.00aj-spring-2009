@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: A gallery of photos from a river testing experiment.
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 parent_title: Labs
+parent_type: CourseSection
 parent_uid: 877f0e43-412d-b8b1-6e5b-2864cf8bf1cc
 title: River Testing Photos
 uid: 0aee0583-c6aa-c4a8-7dde-fb73319a8f26
@@ -8,7 +13,7 @@ uid: 0aee0583-c6aa-c4a8-7dde-fb73319a8f26
 
 {{< anchor "river" >}}{{< /anchor >}}River Testing Photos
 ---------------------------------------------------------
-{{< image-gallery id="0aee0583-c6aa-c4a8-7dde-fb73319a8f26_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/" >}}
+{{< image-gallery id="0aee0583-c6aa-c4a8-7dde-fb73319a8f26_nanogallery2" baseUrl="/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/" >}}
 {{< image-gallery-item href="4a88eec26ee43adf2e7e29aaa47fc754_13.jpg" data-ngdesc="One big propeller at the top of this robot helps it operate like a helicopter." text="One big propeller at the top of this robot helps it operate like a helicopter." >}}
 {{< image-gallery-item href="a26e81869d6919269e6994d1c7513c4d_14.jpg" data-ngdesc="This robot, the Sea-Saw, has a V-shaped frame." text="This robot, the Sea-Saw, has a V-shaped frame." >}}
 {{< image-gallery-item href="02154c0b6e8e49be55501ce9f96b36b1_15.jpg" data-ngdesc="Two students pose with their robot, The Winged Avenger." text="Two students pose with their robot, The Winged Avenger." >}}

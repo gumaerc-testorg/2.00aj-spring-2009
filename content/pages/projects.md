@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides information a project to design and construct a
+  remotely operated vehicle that can be used underwater for exploration with video
+  capabilities and sensors for measuring environmental data.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 29350056-4c00-73c5-971d-fc2bbf334afc
 ---
@@ -46,12 +52,12 @@ Final Poster Session
 
 Each team will create a poster that will be printed on large format in color by the teaching staff. The poster should convey your design ideas as well as any data you collect. Several sample posters are presented here, with permission of the authors.
 
-"The Winged Avenger." ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_sw01))
+"The Winged Avenger." ({{% resource_link db98c534-427c-daf9-e07f-76be20a10f52 "PDF" %}})
 
-"Designing an Underwater ROV." ([PDF ‑ 4.8 MB]({{< baseurl >}}/resources/mit2_00ajs09_sw02))
+"Designing an Underwater ROV." ({{% resource_link 2e263c7c-390e-be64-3e65-54b94850953f "PDF ‑ 4.8 MB" %}})
 
-"Designing Nemo." ([PDF ‑ 9.1 MB]({{< baseurl >}}/resources/mit2_00ajs09_sw03))
+"Designing Nemo." ({{% resource_link d7714ca3-2ea6-a1dd-dc97-4ee84311ff36 "PDF ‑ 9.1 MB" %}})
 
-"The Sea-Saw." ([PDF ‑ 2.3 MB]({{< baseurl >}}/resources/mit2_00ajs09_sw04))
+"The Sea-Saw." ({{% resource_link 0639d801-ae55-ac07-3f14-48f4c97650dc "PDF ‑ 2.3 MB" %}})
 
-"To Sink And Swim." ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_sw05))
+"To Sink And Swim." ({{% resource_link 121104e4-751d-3a83-5483-033e8b90a706 "PDF" %}})

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides lecture notes and other study materials for the
+  course, organized by topic.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 303c499b-e5d2-36b1-cde0-bb36d615f4e7
 ---
@@ -39,18 +43,18 @@ Introduction to engineering and the design process, engineering drawing, sketchi
 {{< tdopen >}}
 
 
-Overview ([PDF 1 ‑ 4.8MB]({{< baseurl >}}/resources/mit2_00ajs09_lec01a))
+Overview ({{% resource_link 36f811c6-cb20-e986-5d48-8d4253da2ea1 "PDF 1 ‑ 4.8MB" %}})
 
-Engineering design (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 ‑ 3.6MB]({{< baseurl >}}/resources/mit2_00ajs09_lec01b))
+Engineering design ({{% resource_link cda71f0c-b542-49f9-e00e-f5a2b371950f "PDF 2 ‑ 3.6MB" %}})
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
-Introductory questionnaire ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res01a))
+Introductory questionnaire ({{% resource_link ca7ab77d-5214-5fd9-cbff-a2f67f761d06 "PDF" %}})
 
-Concept quiz ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_res01b))
+Concept quiz ({{% resource_link 6f5063fc-562d-919e-4005-ac2c983eefb7 "PDF" %}})
 
 Slocum, Alexander H. "Design Is A Passionate Process." Chapter 1 in _Fundamentals of Design_. ([PDF](http://web.mit.edu/2.75/fundamentals/FUNdaMENTALs%20Book%20pdf/FUNdaMENTALs%20Topic%201.PDF))
 
@@ -72,7 +76,7 @@ Free body diagrams, Newton's laws
 
 {{< tdclose >}}
 {{< tdopen >}}
-Engineering analysis ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lec02))
+Engineering analysis ({{% resource_link 92963502-70b5-9a3d-5b1d-c2347194cc17 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +94,7 @@ Exploration with instrumentation
 
 {{< tdclose >}}
 {{< tdopen >}}
-Circuits ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lec03))
+Circuits ({{% resource_link 183233f0-ff01-6b3c-3723-4646c73e58d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,10 +106,10 @@ Circuits ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_lec03))
 Hydrostatics, pressure and water proofing
 {{< tdclose >}}
 {{< tdopen >}}
-Fluid effects and forces ([PDF ‑ 3.1MB]({{< baseurl >}}/resources/mit2_00ajs09_lec04))
+Fluid effects and forces ({{% resource_link 28e5c096-a0cc-90fd-c912-15266931ffeb "PDF ‑ 3.1MB" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Hydrostatic pressure effects and Archimedes' principle ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_read04))
+Hydrostatic pressure effects and Archimedes' principle ({{% resource_link d7b9a86d-9c98-0c0a-cb07-349393eb6b37 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +159,7 @@ Guest lecturer: Prof. Steven Leeb
 {{< tdopen >}}
 
 
-Gears & linkages ([PDF ‑ 1.7MB]({{< baseurl >}}/resources/mit2_00ajs09_lec07))
+Gears & linkages ({{% resource_link e8c25391-a19f-4a1e-f3c4-27017307f509 "PDF ‑ 1.7MB" %}})
 
 
 {{< tdclose >}}
@@ -234,12 +238,12 @@ Guest lecturer: Prof. Dava Newman
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 
 
-Prelab ([PDF ‑ 4.5MB]({{< baseurl >}}/resources/mit2_00ajs09_lec11)) (Courtesy of Dava Newman. Used with permission.)
+Prelab ({{% resource_link 93be3ce8-2b17-cb02-0249-da0c83a9adb3 "PDF ‑ 4.5MB" %}}) (Courtesy of Dava Newman. Used with permission.)
 
-Lab ([PDF ‑ 2.0MB]({{< baseurl >}}/resources/mit2_00ajs09_lec12)) (Courtesy of Dava Newman. Used with permission.)
+Lab ({{% resource_link bef9dda7-06b3-8768-1aa8-91944540abbd "PDF ‑ 2.0MB" %}}) (Courtesy of Dava Newman. Used with permission.)
 
 [Photos](#killian)
 
@@ -428,7 +432,7 @@ Guest lecturer: Prof. Steve Dubowsky, mobile robots
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Field and Space Robotics Laboratory](http://robots.mit.edu/), MIT Mechanical Engineering
+[Field and Space Robotics Laboratory](https://ilp.mit.edu/node/36640), MIT Mechanical Engineering
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -462,7 +466,7 @@ Engineering after MIT: grad school, consulting, FE exam, professional engineers 
 
 [NCEES Fundamentals of Engineering Exams](http://www.ncees.org/Exams/FE_exam.php)
 
-ASME Ethics Code (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://rotorlab.tamu.edu/me489/README/ASME%20Policies%2015_7_8_9.pdf))
+ASME Ethics Code ([PDF](http://rotorlab.tamu.edu/me489/README/ASME%20Policies%2015_7_8_9.pdf))
 
 
 {{< tdclose >}}
@@ -533,7 +537,7 @@ Lab clean up, evaluations
 
 {{< anchor "killian" >}}{{< /anchor >}}Moon Mission Photos
 ----------------------------------------------------------
-{{< image-gallery id="303c499b-e5d2-36b1-cde0-bb36d615f4e7_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/" >}}
+{{< image-gallery id="303c499b-e5d2-36b1-cde0-bb36d615f4e7_nanogallery2" baseUrl="/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/" >}}
 {{< image-gallery-item href="1b10f6088f5fbbd481947062a997a58d_1.jpeg" data-ngdesc="Getting suited up." text="Getting suited up." >}}
 {{< image-gallery-item href="1c69b854f7fff687d900e081a114fbfb_2.jpeg" data-ngdesc="Student astronauts, ready to gather samples from the surface." text="Student astronauts, ready to gather samples from the surface." >}}
 {{< image-gallery-item href="a833ce1db5f0b5165e56c16be4be4829_3.jpeg" data-ngdesc="Moving in a space suit requires practice." text="Moving in a space suit requires practice." >}}

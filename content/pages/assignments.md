@@ -1,15 +1,20 @@
 ---
 content_type: page
+description: This section contains the writing assignments and oral presentation required
+  for the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 1016059a-65d2-56e4-e12d-e4f25591a1b8
 ---
 
-This page contains the writing assignments for the course. Details about the final group design project are on the [projects]({{< baseurl >}}/pages/projects) page.
+This page contains the writing assignments for the course. Details about the final group design project are on the {{% resource_link 29350056-4c00-73c5-971d-fc2bbf334afc "projects" %}} page.
 
 Lab Notebook Review
 -------------------
 
-Design notebook guidelines (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_00ajs09_assn01_notebook))
+Design notebook guidelines ({{% resource_link 9dfea858-4f4b-0f0c-7e67-a8a1122d5f5c "PDF" %}})
 
 Notebooks will be collected **in lab** approximately every other week.
 
@@ -20,9 +25,9 @@ Both of these reports should be well-structured, with introductions, body and co
 
 a. Review of a current (major) engineering challenge and why it's important to society today. Stories taken from current news and events, and popular magazines (_Popular Science, Science, Nature, Scientific American, New Scientist, Time, US News and World Reports_, etc) related to major engineering challenges facing society today. These should be challenges that warrant new engineering technology (that needs to be developed/designed!). You should discuss critically why it's important, how it will benefit society and the environment, and what the major challenges are (engineering, societal and/or political!). Report should be 2-3 pages.
 
-b. Ethics position paper ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_assn02_ethics)). This position paper will convey your personal opinion relating to the ethical dilemma presented in an assigned reading. You will not be graded on your opinion, but how you convince the reader that your opinion is valid and should be considered. This should be approximately 2 pages.
+b. Ethics position paper ({{% resource_link 6d63b604-b011-7fab-2c46-41a990eff248 "PDF" %}}). This position paper will convey your personal opinion relating to the ethical dilemma presented in an assigned reading. You will not be graded on your opinion, but how you convince the reader that your opinion is valid and should be considered. This should be approximately 2 pages.
 
-Perelman, Les. "Writing a Technical Report." ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_assn03_techreport)) (Courtesy of Les Perelman and Mya Poe. Used with permission.)
+Perelman, Les. "Writing a Technical Report." ({{% resource_link ac19b554-29f8-33d1-bb2d-c61886d85cd5 "PDF" %}}) (Courtesy of Les Perelman and Mya Poe. Used with permission.)
 
 ### Required Readings
 
@@ -53,15 +58,15 @@ Oral Presentation
 
 Your team will make a presentation to the class on your design ideas and how you plan to construct your vehicle. This presentation should be made in Powerpoint (MAC/Windows) or Keynote (MAC OS) and a PDF should be printed and posted to the course Web site. Each team member should present some aspect of the design.
 
-Rethinking the design of presentation slides (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_00ajs09_assn04_oral_pres)) (Courtesy of Michael Alley. Used with permission.)
+Rethinking the design of presentation slides ({{% resource_link f0523f09-5e49-21c5-4670-1d13f34c2710 "PDF" %}}) (Courtesy of Michael Alley. Used with permission.)
 
-Presentation template ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_assn05_oral_template))
+Presentation template ({{% resource_link 27cf326e-f1b7-6acb-0342-71812aac3369 "PDF" %}})
 
 Technical Reports (3-5 pages each)
 ----------------------------------
 
 Both of these reports should be well-structured, with introductions, body and conclusions. Points will be taken off for grammar and spelling mistakes, so **proofread** before handing them in. These are more technical in nature than the CI reports.
 
-a. Technical report 1 ([PDF]({{< baseurl >}}/resources/mit2_00ajs09_assn06_motors)): This TR will detail the data obtained from testing the motors. Highlight the pros/cons of the motor/prop combination and present your data for thrust, etc.
+a. Technical report 1 ({{% resource_link b0f020c0-2620-0bb2-12a4-c65a017b4340 "PDF" %}}): This TR will detail the data obtained from testing the motors. Highlight the pros/cons of the motor/prop combination and present your data for thrust, etc.
 
 b. Technical report 2: This TR will detail your data collected in the Charles River Basin and Boston Harbor areas.
