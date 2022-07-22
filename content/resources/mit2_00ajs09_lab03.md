@@ -5,6 +5,7 @@ file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-desi
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT2_00AJs09_lab03.pdf
 uid: 40a03166-e59f-4024-5885-1f6a870f52dc
 ---
 This resource contains information about sensor suite assembly instructions.
-

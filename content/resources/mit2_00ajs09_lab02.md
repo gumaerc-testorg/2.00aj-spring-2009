@@ -8,6 +8,7 @@ file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-desi
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 5c5d0a4b-6895-a326-6f78-c7d438a66f8a
 ---
 This resource contains information about goal of this module is to construct a relatively simple and inexpensive LED
 light bank for underwater illumination.
-

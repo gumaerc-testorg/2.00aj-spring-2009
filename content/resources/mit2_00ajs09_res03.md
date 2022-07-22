@@ -6,6 +6,7 @@ file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-desi
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT2_00AJs09_res03.pdf
 uid: 31b38dfb-a526-8a47-f467-94843514dce7
 ---
 This resource contains information about PC connectivity, data manipulation and storage, conductivity and pressure.
-

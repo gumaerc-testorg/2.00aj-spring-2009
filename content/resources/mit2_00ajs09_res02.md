@@ -8,6 +8,7 @@ file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-desi
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 9a770c6e-6a69-05a7-a5ff-fa3c9df4346c
 ---
 This resource contains information about electronic devices for the purpose of this document are components or collections
 of components that require and/or modify electricity to perform their function.
-

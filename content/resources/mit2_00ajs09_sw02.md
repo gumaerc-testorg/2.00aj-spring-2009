@@ -6,6 +6,7 @@ file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-desi
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT2_00AJs09_sw02.pdf
 uid: 2e263c7c-390e-be64-3e65-54b94850953f
 ---
 This resource contains information about performance, purpose, design and process.
-

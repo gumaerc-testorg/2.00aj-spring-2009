@@ -6,6 +6,7 @@ file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-desi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT2_00AJs09_assn03_techreport.pdf
 uid: ac19b554-29f8-33d1-bb2d-c61886d85cd5
 ---
 This resource contains information about topics, writing the design report -prewriting and introduction.
-

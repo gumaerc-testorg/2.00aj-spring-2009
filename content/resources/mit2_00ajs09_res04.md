@@ -6,6 +6,7 @@ file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-desi
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT2_00AJs09_res04.pdf
 uid: 2b2b7e7d-b8b0-0f6e-0eb4-dc641bb5f9d5
 ---
 This resource contains information about procedure for calibrating sensor data.
-

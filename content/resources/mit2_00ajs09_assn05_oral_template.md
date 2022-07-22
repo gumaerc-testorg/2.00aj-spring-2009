@@ -6,6 +6,7 @@ file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-desi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT2_00AJs09_assn05_oral_template.pdf
 uid: 27cf326e-f1b7-6acb-0342-71812aac3369
 ---
 This resource contains information about topics, talk outline, design overview, analysis and construction plan.
-

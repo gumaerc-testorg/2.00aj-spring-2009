@@ -9,6 +9,7 @@ file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-desi
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ uid: f0523f09-5e49-21c5-4670-1d13f34c2710
 ---
 This resource contains inforamtion about an advantage of using slides is that audiences
 remember more when the slides are well-designed and three criteria are important in evaluating a layout design for presentation slides.
-

@@ -6,6 +6,7 @@ file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-desi
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT2_00AJs09_lab01.pdf
 uid: 5b0fa587-019f-7fd5-6b2c-c1855857159a
 ---
 This resource contains information about introduction to engineering and the design process, engineering drawing, sketching, back of the envelope calculations
-

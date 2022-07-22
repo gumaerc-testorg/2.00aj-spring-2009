@@ -7,6 +7,7 @@ file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-desi
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: MIT2_00AJs09_res01.pdf
 uid: 1ac655f8-d2b1-d6b0-ef86-ecd8a2e45672
 ---
 This resource contains information about work safty in the lab, power tool use is restricted, don't not work with chemical alone and don't install any software.
-

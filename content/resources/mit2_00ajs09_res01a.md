@@ -5,6 +5,7 @@ description: This resource contains information about fundamentals of engineerin
 file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/ca7ab77d52145fd9cbffa2f67f761d06_MIT2_00AJs09_res01A.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT2_00AJs09_res01A.pdf
 uid: ca7ab77d-5214-5fd9-cbff-a2f67f761d06
 ---
 This resource contains information about fundamentals of engineering design.
-
