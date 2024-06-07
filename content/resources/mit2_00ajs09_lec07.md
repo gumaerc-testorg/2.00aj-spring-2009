@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about motors and electronics.
 file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/e8c25391a19f4a1ef3c427017307f509_MIT2_00AJs09_lec07.pdf
+file_size: 1746351
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
