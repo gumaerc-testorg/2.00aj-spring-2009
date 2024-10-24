@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains information about work safty in the lab, power
   tool use is restricted, don't not work with chemical alone and don't install any
   software.
-file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/1ac655f8d2b1d6b0ef86ecd8a2e45672_MIT2_00AJs09_res01.pdf
+file: /ol-ocw-studio-app/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/1ac655f8d2b1d6b0ef86ecd8a2e45672_MIT2_00AJs09_res01.pdf
 file_size: 57370
 file_type: application/pdf
 learning_resource_types:
