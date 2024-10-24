@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about derived units, free body diagrams,
   sketches, free body diagrams and conservation laws.
-file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/9296350270b59a3d5b1dc2347194cc17_MIT2_00AJs09_lec02.pdf
+file: /ol-ocw-studio-app/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/9296350270b59a3d5b1dc2347194cc17_MIT2_00AJs09_lec02.pdf
 file_size: 396743
 file_type: application/pdf
 learning_resource_types: []
