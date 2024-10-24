@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about introduction to engineering
   and the design process, engineering drawing, sketching, back of the envelope calculations
-file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/5b0fa587019f7fd56b2cc1855857159a_MIT2_00AJs09_lab01.pdf
+file: /ol-ocw-studio-app/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/5b0fa587019f7fd56b2cc1855857159a_MIT2_00AJs09_lab01.pdf
 file_size: 203993
 file_type: application/pdf
 learning_resource_types:
