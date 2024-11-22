@@ -4,6 +4,7 @@ description: This section provides information on the lab assignments for the co
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
+show_section_pages: true
 title: Labs
 uid: 877f0e43-412d-b8b1-6e5b-2864cf8bf1cc
 ---
