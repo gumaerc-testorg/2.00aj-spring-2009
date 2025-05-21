@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about concept quiz.
-file: /ol-ocw-studio-app/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/6f5063fc562d919e4005ac2c983eefb7_MIT2_00AJs09_res01B.pdf
+file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/6f5063fc562d919e4005ac2c983eefb7_MIT2_00AJs09_res01B.pdf
 file_size: 102882
 file_type: application/pdf
 learning_resource_types: []

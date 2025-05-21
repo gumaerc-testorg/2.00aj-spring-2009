@@ -5,7 +5,7 @@ description: 'This resource contains inforamtion about an advantage of using sli
 
   remember more when the slides are well-designed and three criteria are important
   in evaluating a layout design for presentation slides.'
-file: /ol-ocw-studio-app/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/f0523f095e4921c546701d13f34c2710_MIT2_00AJs09_assn04_oral_pres.pdf
+file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/f0523f095e4921c546701d13f34c2710_MIT2_00AJs09_assn04_oral_pres.pdf
 file_size: 691496
 file_type: application/pdf
 learning_resource_types:
