@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about PC connectivity, data manipulation
   and storage, conductivity and pressure.
-file: /ol-ocw-studio-app/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/31b38dfba5268a47f46794843514dce7_MIT2_00AJs09_res03.pdf
+file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/31b38dfba5268a47f46794843514dce7_MIT2_00AJs09_res03.pdf
 file_size: 114407
 file_type: application/pdf
 learning_resource_types:
