@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about details, layouts and technical.
-file: /ol-ocw-studio-app/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/b0f020c026200bb212a4c65a017b4340_MIT2_00AJs09_assn06_motors.pdf
+file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/b0f020c026200bb212a4c65a017b4340_MIT2_00AJs09_assn06_motors.pdf
 file_size: 99326
 file_type: application/pdf
 learning_resource_types:
