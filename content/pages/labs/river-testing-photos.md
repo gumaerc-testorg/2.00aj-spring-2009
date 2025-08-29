@@ -2,7 +2,7 @@
 content_type: page
 description: A gallery of photos from a river testing experiment.
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 ocw_type: CourseSection
 parent_title: Labs
 parent_type: CourseSection
