@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about fundamentals of engineering
   design.
-file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/ca7ab77d52145fd9cbffa2f67f761d06_MIT2_00AJs09_res01A.pdf
+file: /ol-ocw-studio-app/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/ca7ab77d52145fd9cbffa2f67f761d06_MIT2_00AJs09_res01A.pdf
 file_size: 66444
 file_type: application/pdf
 learning_resource_types: []

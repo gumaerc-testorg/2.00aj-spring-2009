@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to different methods for dimensional
   analysis.
-file: /courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/b928e804a6f52f05410615711404122e_MIT2_00AJs09_res02.pdf
+file: /ol-ocw-studio-app/courses/2-00aj-exploring-sea-space-earth-fundamentals-of-engineering-design-spring-2009/b928e804a6f52f05410615711404122e_MIT2_00AJs09_res02.pdf
 file_size: 151970
 file_type: application/pdf
 learning_resource_types: []
