@@ -36,7 +36,7 @@ Introductory questionnaire ({{% resource_link "ca7ab77d-5214-5fd9-cbff-a2f67f761
 
 Concept quiz ({{% resource_link "6f5063fc-562d-919e-4005-ac2c983eefb7" "PDF" %}})
 
-Slocum, Alexander H. "Design Is A Passionate Process." Chapter 1 in *Fundamentals of Design*. ([PDF](http://web.mit.edu/2.75/fundamentals/FUNdaMENTALs%20Book%20pdf/FUNdaMENTALs%20Topic%201.PDF))
+Slocum, Alexander H. "Design Is A Passionate Process." Chapter 1 in *Fundamentals of Design*. ({{% resource_link "b2f3de83-fbc8-40cd-a5c0-7e38dc0473b0" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -93,7 +93,7 @@ Guest lecturer: Prof. Steven Leeb
 {{< tdclose >}}{{< tdopen >}}
 Gears & linkages ({{% resource_link "e8c25391-a19f-4a1e-f3c4-27017307f509" "PDF ‑ 1.7MB" %}})
 {{< tdclose >}}{{< tdopen >}}
-[Laboratory for Electromagnetic and Electronic Systems](http://www.rle.mit.edu/laboratory-for-electromagnetic-and-electronic-systems/), RLE, MIT Electrical Engineering & Computer Science
+{{% resource_link "78466aff-1646-45be-9bab-6a10b0079115" "Laboratory for Electromagnetic and Electronic Systems" %}}, RLE, MIT Electrical Engineering & Computer Science
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -143,7 +143,7 @@ Lab ({{% resource_link "bef9dda7-06b3-8768-1aa8-91944540abbd" "PDF ‑ 2.0MB" 
 [Photos](#killian)
 
 {{< tdclose >}}{{< tdopen >}}
-[Man Vehicle Lab](http://mvl.mit.edu/), MIT Aeronautics & Astronautics
+{{% resource_link "1e0288a6-8d5b-4fcd-abe2-52137e667b97" "Man Vehicle Lab" %}}, MIT Aeronautics & Astronautics
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
@@ -218,13 +218,13 @@ Engineering at MIT: choice of majors
  
 {{< tdclose >}}{{< tdopen >}}
 
-[MIT Freshmen: Choosing Your Major](http://mitadmissions.org/blogs/entry/choosing_a_major)
+{{% resource_link "f7358058-32f1-489c-9079-35798912c7ec" "MIT Freshmen: Choosing Your Major" %}}
 
-[MIT Mechanical Engineering](http://meche.mit.edu/)
+{{% resource_link "eecd5fd9-9fb6-40c1-a67d-d09d97dd1e5b" "MIT Mechanical Engineering" %}}
 
-[MIT Ocean Engineering](http://oe.mit.edu/)
+{{% resource_link "d122719b-f5b9-4e4f-be27-bea6f532a559" "MIT Ocean Engineering" %}}
 
-[MIT Aeronautics and Astronautics](http://web.mit.edu/aeroastro/about/index.html)
+{{% resource_link "3d27618d-7b35-44c5-be12-29083def19e1" "MIT Aeronautics and Astronautics" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -241,7 +241,7 @@ Guest lecturer: Prof. Steve Dubowsky, mobile robots
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-[Field and Space Robotics Laboratory](https://ilp.mit.edu/node/36640), MIT Mechanical Engineering
+{{% resource_link "a004eaf7-c029-4694-b4d3-e314dd2c2d2f" "Field and Space Robotics Laboratory" %}}, MIT Mechanical Engineering
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
@@ -249,7 +249,7 @@ Guest lecturer: Prof. Sangbae Kim, bio-inspired design
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-[Biomimetic Robotics Lab](http://web.mit.edu/sangbae/www/), MIT Mechanical Engineering
+{{% resource_link "e5649659-5269-483d-9252-e5e740299d46" "Biomimetic Robotics Lab" %}}, MIT Mechanical Engineering
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
@@ -258,9 +258,9 @@ Engineering after MIT: grad school, consulting, FE exam, professional engineers 
  
 {{< tdclose >}}{{< tdopen >}}
 
-[NCEES Fundamentals of Engineering Exams](https://www.asce.org/education-and-events/explore-education/fe-exam)
+{{% resource_link "e78278ed-3a4e-4e5d-b5e6-763d348af134" "NCEES Fundamentals of Engineering Exams" %}}
 
-ASME Ethics Code ([PDF](http://rotorlab.tamu.edu/me489/README/ASME%20Policies%2015_7_8_9.pdf))
+ASME Ethics Code ({{% resource_link "7e3537d7-c74f-4f91-b85f-cbc80ad3a10c" "PDF" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
@@ -269,7 +269,7 @@ Guest lecturer: Dr. Sheri White, underwater exploration
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-[Dr. White's research](https://www.whoi.edu/oceanus/featured-researcher/sheri-white/), Woods Hole Oceanographic Institution
+{{% resource_link "9c644139-8280-4387-a608-8a35a3dea337" "Dr. White's research" %}}, Woods Hole Oceanographic Institution
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
@@ -277,7 +277,7 @@ Guest lecturer: Prof. Jeff Hoffman, aerospace engineering design
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< tdopen >}}
-[Massachusetts Space Grant Consortium](http://web.mit.edu/masgc/www/index.shtml), MIT Aeronautics & Astronautics
+{{% resource_link "147b1f91-2d84-49f0-b21b-e5f880d13811" "Massachusetts Space Grant Consortium" %}}, MIT Aeronautics & Astronautics
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 27
 {{< tdclose >}}{{< tdopen >}}
