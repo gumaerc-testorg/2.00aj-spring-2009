@@ -35,23 +35,23 @@ Kent, Adrian. "A Critical Look at Risk Assessments for Global Catastrophes." _Ri
 
 Calogero, Francesco. "Might A Laboratory Experiment Destroy Planet Earth?" _Interdisciplinary Science Reviews_ 25 (2000): 191-202.
 
-Overbye, Dennis. "[Gauging a Collider's Odds of Creating a Black Hole](http://www.nytimes.com/2008/04/15/science/15risk.html)." _New York Times_, April 15, 2008.
+Overbye, Dennis. "{{% resource_link "71f42a8e-1ccc-410e-b664-93d5cd9339fe" "Gauging a Collider's Odds of Creating a Black Hole" %}}." _New York Times_, April 15, 2008.
 
 ### Optional Readings
 
-Jaffe, R. L., et al. "Review of Speculative 'Disaster Scenarios' at RHIC." _Reviews of Modern Physics_ 72 (2000): 1125-1140. [arxiv:hep-ph/9910333v3](http://arxiv.org/abs/hep-ph/9910333v3)
+Jaffe, R. L., et al. "Review of Speculative 'Disaster Scenarios' at RHIC." _Reviews of Modern Physics_ 72 (2000): 1125-1140. {{% resource_link "a925a2c6-b7f9-405d-ac4c-fae771f17bff" "arxiv:hep-ph/9910333v3" %}}
 
-Johnson, George. "[Physicists Strive to Build a Black Hole](http://www.nytimes.com/2001/09/11/science/physicists-strive-to-build-a-black-hole.html)." _New York Times_, September 11, 2001.
+Johnson, George. "{{% resource_link "a3db6e57-86db-4529-a7b9-6148182b8abe" "Physicists Strive to Build a Black Hole" %}}." _New York Times_, September 11, 2001.
 
-Overbye, Dennis. "[Asking a Judge to Save the World, and Maybe a Whole Lot More](http://www.nytimes.com/2008/03/29/science/29collider.html)." _New York Times_, March 29, 2008.
+Overbye, Dennis. "{{% resource_link "9ac4976a-d605-4097-beb2-ab26ffacaebc" "Asking a Judge to Save the World, and Maybe a Whole Lot More" %}}." _New York Times_, March 29, 2008.
 
-Nizza, Mike. "[Hawking Anticipates Collider's Start](http://thelede.blogs.nytimes.com/2008/09/09/hawking-anticipates-colliders-start/)." _New York Times_, September 9, 2008.
+Nizza, Mike. "{{% resource_link "a92a22e4-55c6-4479-aef2-ad0ecbc7d9b5" "Hawking Anticipates Collider's Start" %}}." _New York Times_, September 9, 2008.
 
-Overbye, Dennis. "[A Giant Takes On Physics' Biggest Questions](http://www.nytimes.com/2007/05/15/science/15cern.html)." _New York Times_, May 15, 2005.
+Overbye, Dennis. "{{% resource_link "ff859c46-c777-46a3-94f8-cc9e95f9ad0a" "A Giant Takes On Physics' Biggest Questions" %}}." _New York Times_, May 15, 2005.
 
-Dar, Arnon, A. De Rújula, and Ulrich Heinz. "Will Relativistic Heavy Ion Colliders Destroy Our Planet?" _Physical Review Letters B_ 470 (1999): 142-148. [arXiv:hep-ph/9910471v1](http://arxiv.org/abs/hep-ph/9910471v1)
+Dar, Arnon, A. De Rújula, and Ulrich Heinz. "Will Relativistic Heavy Ion Colliders Destroy Our Planet?" _Physical Review Letters B_ 470 (1999): 142-148. {{% resource_link "8be523d2-464a-4bd8-bf09-a301adbf528b" "arXiv:hep-ph/9910471v1" %}}
 
-AssociatedPress. "[Particle Collider Fires, No Black Holes Form](http://www.youtube.com/watch?v=bLf6Yc4gdNY)." September 10, 2008. YouTube. Accessed August 3, 2009.
+AssociatedPress. "{{% resource_link "46c8eb5c-c85a-4b3c-b342-f0b405de8df9" "Particle Collider Fires, No Black Holes Form" %}}." September 10, 2008. YouTube. Accessed August 3, 2009.
 
 Oral Presentation
 -----------------
