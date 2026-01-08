@@ -10,11 +10,11 @@ uid: 9759c68f-7ab5-5cc8-6388-d95ca05794f4
 
 Exploration-themed reading recommendations ({{% resource_link c4594df6-e657-5c14-ea52-50bf3c1197eb "PDF" %}})
 
-{{% resource_link "5100fb6f-0310-46df-be5c-a7966aa60bf7" "Greatest Engineering Achievements of the 20th Century" %}}
+[Greatest Engineering Achievements of the 20th Century](http://www.greatachievements.org/)
 
-{{% resource_link "e1a39f02-370a-48bc-a08e-fbb9d188e654" "FoilSim II" %}} (NASA airfoil interactive simulation)
+[FoilSim II](http://www.grc.nasa.gov/WWW/K-12/airplane/foil2.html) (NASA airfoil interactive simulation)
 
-Slocum, Alexander H. "Creating Ideas." Chapter 2 in _Fundamentals of Design_. ({{% resource_link "b2f3de83-fbc8-40cd-a5c0-7e38dc0473b0" "PDF" %}})
+Slocum, Alexander H. "Creating Ideas." Chapter 2 in _Fundamentals of Design_. ([PDF](http://web.mit.edu/2.75/fundamentals/FUNdaMENTALs%20Book%20pdf/FUNdaMENTALs%20Topic%201.PDF))
 
 Newman, Dava. "Introduction to Engineering," and "Design: Lighter-Than-Air (LTA) Vehicle Module." Chapters 2 and 12 in _Interactive Aerospace Engineering and Design_. Dubuque, Iowa: McGraw-Hill, 2001. ISBN: 9780072351248.
 
